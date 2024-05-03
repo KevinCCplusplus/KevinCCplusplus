@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinCCplusplus
-- 👀 I’m interested in C++, game development.
+- 👀 I’m interested in C++ software developing.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kcortenraad01@gmail.com
